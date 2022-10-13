@@ -19,7 +19,7 @@ public void setNombre(String nombre) {
 public String getTelefono() {
 	return telefono;
 }
-
+//terminado
 public void setTelefono(String telefono) {
 	this.telefono = telefono;
 }
